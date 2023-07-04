@@ -1,8 +1,8 @@
 # YouTube Clone Template
 
 
-Live Demo: [VueTube](https://vuetube-clone.netlify.app)
-
+Live Demo:(https://vuetube-clone.netlify.app)
+Live website : (https://ramkalyangunimanikala.github.io/youtube-clone/)
 ## Features / Pages
 
 - Sign in / Sign up
